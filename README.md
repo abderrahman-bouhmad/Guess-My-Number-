@@ -5,4 +5,4 @@ In this project, i build an interactive number guessing game where a random numb
 ---
 
 ### 🔗 Live Demo
-[Play it here](https://yourusername.github.io/guess-my-number)
+[Play it here](https://abderrahman-bouhmad.github.io/Guess-My-Number-)
